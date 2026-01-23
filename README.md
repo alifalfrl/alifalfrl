@@ -1,55 +1,66 @@
 <p align="center">
-  <img src="https://img1.pixhost.to/images/7907/631230916_media.jpg" alt="ALIP CLUTCH" width="100%">
+  <img src="https://img1.pixhost.to/images/7907/631230916_media.jpg" alt="ALIP CLUTCH" width="100%" style="border-radius: 12px; box-shadow: 0 4px 30px rgba(0,0,0,0.3);">
 </p>
 
 <h1 align="center">ALIP CLUTCH</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=520&lines=静かに構築し、確実に仕上げる" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=550&lines=静かに構築し、確実に仕上げる" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/System%20Developer-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Automation%20Focused-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge" />
-</p>
-
----
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=680&lines=無駄を削ぎ、構造を美しく" />
+  <img src="https://img.shields.io/badge/System%20Developer-00FFFF?style=for-the-badge&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Automation%20Focused-00FFFF?style=for-the-badge&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-00FFFF?style=for-the-badge&labelColor=0A0A0A" />
 </p>
 
 ---
 
-## Development Philosophy
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=AAAAAA&center=true&vCenter=true&width=680&lines=設計は静かに、実装は正確に" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=AAAAAA&center=true&vCenter=true&width=680&lines=Dari perencanaan sampai operasional, semua satu alur dan terkontrol." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=無駄を削ぎ、構造を美しく" />
 </p>
 
 ---
 
-## GitHub Statistics
+### Core Focus
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alifalfrl&show_icons=true&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifalfrl&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=AAAAAA&center=true&vCenter=true&width=700&lines=設計は静かに、実装は正確に" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=AAAAAA&center=true&vCenter=true&width=700&lines=Dari perencanaan sampai operasional, semua satu alur dan terkontrol." />
 </p>
 
 ---
 
-## Contact
+### Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-20232A?style=flat&logo=node.js&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/Express-20232A?style=flat&logo=express&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/JavaScript-20232A?style=flat&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/EJS-20232A?style=flat&logo=ejs&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Linux-20232A?style=flat&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/Git-20232A?style=flat&logo=git&logoColor=F05032" />
+</p>
+
+---
+
+### GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alifalfrl&show_icons=true&theme=dark&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifalfrl&layout=compact&theme=dark&hide_border=true&langs_count=10" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alifalfrl&theme=dark&hide_border=true" />
+</p>
+
+---
+
+### Connect
 <p align="center">
   <a href="https://github.com/alifalfrl" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github" />
   </a>
   <a href="https://t.me/alifalfrl" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram" />
+    <img src="https://img.shields.io/badge/Telegram-0A0A0A?style=for-the-badge&logo=telegram" />
   </a>
 </p>
 
