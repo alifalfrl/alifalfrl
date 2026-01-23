@@ -1,25 +1,6 @@
 <p align="center">
   <img src="https://img1.pixhost.to/images/7907/631230916_media.jpg" alt="ALIP CLUTCH" width="100%" style="border-radius: 12px; box-shadow: 0 4px 30px rgba(0,0,0,0.3);">
 </p>
-
-<h1 align="center">ALIP CLUTCH</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=550&lines=静かに構築し、確実に仕上げる" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/System%20Developer-00FFFF?style=for-the-badge&labelColor=0A0A0A" />
-  <img src="https://img.shields.io/badge/Automation%20Focused-00FFFF?style=for-the-badge&labelColor=0A0A0A" />
-  <img src="https://img.shields.io/badge/Clean%20Architecture-00FFFF?style=for-the-badge&labelColor=0A0A0A" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=無駄を削ぎ、構造を美しく" />
-</p>
-
 ---
 
 ### Core Focus
