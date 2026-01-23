@@ -4,7 +4,6 @@
 
 ### Core Focus
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=AAAAAA&center=true&vCenter=true&width=700&lines=設計は静かに、実装は正確に" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=AAAAAA&center=true&vCenter=true&width=700&lines=Dari perencanaan sampai operasional, semua satu alur dan terkontrol." />
 </p>
 
