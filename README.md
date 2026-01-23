@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://img1.pixhost.to/images/7907/631230916_media.jpg" alt="ALIP CLUTCH" width="100%" style="border-radius: 12px; box-shadow: 0 4px 30px rgba(0,0,0,0.3);">
+  <img src="https://img1.pixhost.to/images/7907/631230916_media.jpg" alt="" width="100%" style="border-radius: 12px; box-shadow: 0 4px 30px rgba(0,0,0,0.3);">
 </p>
----
 
 ### Core Focus
 <p align="center">
