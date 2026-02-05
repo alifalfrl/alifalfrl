@@ -3,40 +3,44 @@
 </p>
 
 <h1 align="center">Alif Alfarel</h1>
-<h3 align="center">Backend Developer • Bot Developer • Automation Enthusiast</h3>
+<h3 align="center">WhatsApp Bot Developer • Node.js Web Developer</h3>
 
 ---
 
-## 🚀 About Me
-- 🤖 Focus on Automation & Bot Development  
-- ⚙️ Building Backend API & Server Systems  
-- 🧠 Interested in Security & Infrastructure  
-- 🐧 Linux & VPS Enthusiast  
-- 🌙 Mostly coding at night  
+## 💻 Specialization
+- 🤖 Advanced WhatsApp Bot Development  
+- 🌐 Node.js Website & Backend API  
+- ⚙️ Automation Systems  
+- 🐧 VPS & Linux Server Management  
+- 🔐 Basic Security & Infrastructure  
 
 ---
 
-## 🧰 Tech Stack
+## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,linux,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,html,css,linux,git,github,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alifalfrl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alifalfrl&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
+## 🚀 What I Build
+✔ WhatsApp Multi-Feature Bots  
+✔ Automation & Command Systems  
+✔ Node.js Web Applications  
+✔ REST API Services  
+✔ Server & Hosting Setup  
+✔ Panel / Infrastructure Systems  
 
 ---
 
-## 📌 Main Focus
-Automation Systems  
-WhatsApp Bot Development  
-Backend API Engineering  
-Server Infrastructure  
-Security Research  
+## 📂 Highlight Skills
+```
+WhatsApp Bot Development
+Node.js Backend Engineering
+Automation System Design
+API Integration & Development
+Linux Server & VPS Management
+```
 
 ---
 
