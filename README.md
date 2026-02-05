@@ -23,29 +23,36 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alifalfrl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alifalfrl&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=alifalfrl&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alifalfrl&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alifalfrl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alifalfrl&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
 
 ## 📌 Main Focus
-```text
-Automation Systems
-WhatsApp Bot Development
-Backend API Engineering
-Server Infrastructure
-Security Research
+Automation Systems  
+WhatsApp Bot Development  
+Backend API Engineering  
+Server Infrastructure  
+Security Research  
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://github.com/alifalfrl">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://t.me/alifalfrl">
+    <img src="https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <sub>静かに、速く、正確に。</sub><br>
+  <sub>Silent. Fast. Precise.</sub>
+</p>
