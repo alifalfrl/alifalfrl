@@ -1,9 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=150&section=header&text=&fontSize=35&fontColor=58a6ff&animation=fadeIn"/>
-</div>
-
 ---
-
 ## About Me
 
 **Automation-focused developer** specializing in WhatsApp bot systems, backend APIs, and Linux-based server infrastructure.
