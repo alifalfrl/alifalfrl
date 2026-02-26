@@ -2,12 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=150&section=header&text=&fontSize=35&fontColor=58a6ff&animation=fadeIn"/>
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WhatsApp-Automation-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-Infrastructure-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
 ---
 
 ## About Me
