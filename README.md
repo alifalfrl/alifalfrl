@@ -1,38 +1,28 @@
-## About Me
+About Me
+Automation-focused developer specializing in WhatsApp automation systems, backend APIs, and Linux-based server infrastructure.
+Passionate about building scalable systems with strong emphasis on performance, reliability, and maintainability.
 
-**Automation-focused developer** specializing in WhatsApp bot systems, backend APIs, and Linux-based server infrastructure.
+Tech Stack
 
-Building scalable systems with **performance, reliability, and maintainability** as core priorities.
+  
 
----
 
-## Tech Stack
+Core Expertise
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,js,express,linux,git,github,vscode,html,css&theme=dark"/>
-</p>
+WhatsApp Bot Architecture — scalable automation platforms
+Backend API Development — RESTful services & system integrations
+Linux Infrastructure — server optimization & VPS management
+Automation Engineering — workflow automation & system efficiency
+Deployment & DevOps — infrastructure setup & service deployment
 
----
 
-## Core Expertise
+Current Focus
 
-- **WhatsApp Bot Architecture** - Scalable automation systems
-- **Backend API Development** - RESTful services & microservices  
-- **Linux Infrastructure** - Server optimization & VPS management
-- **Automation Systems** - CI/CD & workflow automation
-- **DevOps & Deployment** - Cloud infrastructure & containerization
+Scalable Automation Platforms
+High-Availability Backend Services
+API Architecture & Microservices Design
+Performance & System Optimization
 
----
 
-## Current Focus
 
-- Scalable Automation Platforms
-- High-Availability Backend Services  
-- API System Design & Microservices
-- Performance Optimization
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer"/>
-</div>
+  
