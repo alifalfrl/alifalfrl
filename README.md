@@ -1,4 +1,5 @@
 ---
+
 ## About Me
 
 **Automation-focused developer** specializing in WhatsApp bot systems, backend APIs, and Linux-based server infrastructure.
