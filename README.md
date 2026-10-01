@@ -1,19 +1,3 @@
-<h1 align="center">Hi 👋, I'm Alif Alfarel</h1>
-
-<h3 align="center">
-  A developer from Indonesia who enjoys building web applications, APIs,
-  automation systems, and digital products. I like turning ideas into
-  functional products — from small utilities to complete web platforms
-  and backend systems.
-</h3>
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=alifalfrl&label=Profile%20Views&color=0e75b6&style=flat"
-    alt="Profile Views"
-  />
-</p>
-
 ---
 
 <h3 align="left">Languages and Tools</h3>
