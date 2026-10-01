@@ -67,22 +67,3 @@ to complete web platforms and backend systems.
 </p>
 
 <br>
-
-### Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=alifalfrl&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"
-    width="100%"
-    alt="Contribution Graph"
-  />
-</p>
-
-<br>
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=100&section=footer"
-    width="100%"
-  />
-</p>
