@@ -16,17 +16,6 @@
 
 ---
 
-<h3 align="center">GitHub Trophies</h3>
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=alifalfrl&theme=flat&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10"
-    alt="GitHub Trophies"
-  />
-</p>
-
----
-
 <h3 align="left">Languages and Tools</h3>
 
 <p align="left">
