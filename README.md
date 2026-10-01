@@ -1,18 +1,4 @@
 <h1 align="center">Alif Alfarel</h1>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;API+%26+Backend+Developer;Automation+%26+Digital+Products;Building+Ideas+Into+Reality"
-    alt="Typing Animation"
-  />
-</p>
-
-<p align="center">
-  <a href="https://github.com/alifalfrl">
-    <img src="https://komarev.com/ghpvc/?username=alifalfrl&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" />
-  </a>
-</p>
-
 <br>
 
 <p align="center">
