@@ -1,16 +1,4 @@
-<h1 align="center">Alif Alfarel</h1>
-<br>
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=alifalfrl&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10"
-    alt="GitHub Trophies"
-  />
-</p>
-
----
-
-### About
+### About Me
 
 I'm a developer from Indonesia who enjoys building web applications,
 APIs, automation systems, and digital products.
