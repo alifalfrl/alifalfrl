@@ -1,138 +1,88 @@
+<h1 align="center">Alif Alfarel</h1>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;API+%26+Backend+Developer;Automation+%26+Digital+Products;Building+Ideas+Into+Reality"
+    alt="Typing Animation"
+  />
+</p>
+
+<p align="center">
+  <a href="https://github.com/alifalfrl">
+    <img src="https://komarev.com/ghpvc/?username=alifalfrl&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" />
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=alifalfrl&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10"
+    alt="GitHub Trophies"
+  />
+</p>
+
 ---
 
-<h3 align="left">Languages and Tools</h3>
+### About
+
+I'm a developer from Indonesia who enjoys building web applications,
+APIs, automation systems, and digital products.
+
+I like turning ideas into functional products — from small utilities
+to complete web platforms and backend systems.
+
+<br>
+
+### Technologies
 
 <p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="Bootstrap"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.chartjs.org/media/logo-title.svg"
-      alt="Chart.js"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="C++"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
-      alt="Google Cloud"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="HTML5"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="JavaScript"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-      alt="Linux"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
-      alt="Microsoft SQL Server"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="Node.js"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-      alt="PHP"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="React"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="TypeScript"
-      width="40"
-      height="40"
-    />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,php,react,nodejs,bootstrap,linux,mysql,mongodb,git,github,docker,cloudflare,gcp&perline=9" />
 </p>
 
----
+<br>
 
-<h3 align="center">GitHub Statistics</h3>
+### GitHub
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=alifalfrl&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
-    alt="GitHub Statistics"
+    src="https://github-readme-stats.vercel.app/api?username=alifalfrl&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true"
     height="170"
+    alt="GitHub Stats"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifalfrl&layout=compact&hide_border=true&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifalfrl&layout=compact&hide_border=true&theme=github_dark&langs_count=8"
+    height="170"
     alt="Top Languages"
-    height="170"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=alifalfrl&theme=transparent&hide_border=true"
+    src="https://streak-stats.demolab.com?user=alifalfrl&theme=github-dark-blue&hide_border=true"
+    width="65%"
     alt="GitHub Streak"
+  />
+</p>
+
+<br>
+
+### Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=alifalfrl&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"
+    width="100%"
+    alt="Contribution Graph"
+  />
+</p>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=100&section=footer"
+    width="100%"
   />
 </p>
