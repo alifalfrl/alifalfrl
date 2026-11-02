@@ -2,14 +2,15 @@
 
 # 👋 Hi there, I'm Alip Clutch!
 
-<img src="https://cdn-alip.clutch.web.id/api/u/mq1sahji.jpg" width="160" style="border-radius: 50%; box-shadow: 0 4px 16px rgba(0,0,0,0.3);" alt="Avatar"/>
+<img src="https://cdn-alip.clutch.web.id/api/u/mq1sahji.jpg" width="170" style="border-radius: 50%; box-shadow: 0 8px 24px rgba(0,0,0,0.4);" alt="Avatar"/>
 
-### **Full-Stack Developer & Automation Engineer from Indonesia**
-*Passionate about building robust web applications, WhatsApp API solutions, high-performance bots, and scalable backend systems.*
+### **Full-Stack Developer & WhatsApp Automation Engineer**
+*Building high-performance APIs, robust bot systems, and scalable digital products.*
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Coding%20&%20Building-success?style=for-the-badge&logo=codeforces&logoColor=white" alt="Status">
+  <img src="https://img.shields.io/badge/Status-Coding%20%26%20Building-success?style=for-the-badge&logo=codeforces&logoColor=white" alt="Status">
   <img src="https://img.shields.io/badge/Location-Indonesia-blue?style=for-the-badge&logo=openstreetmap&logoColor=white" alt="Location">
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Automation-orange?style=for-the-badge&logo=probot&logoColor=white" alt="Focus">
 </p>
 
 </div>
@@ -18,33 +19,33 @@
 
 ### 👨‍💻 About Me
 
-* 🔭 I'm currently working on **Clutch Baileys** & advanced WhatsApp automation ecosystems.
-* ⚡ I love turning complex ideas into fast, clean, and functional digital products.
-* 🛠️ Experienced in backend engineering, database management, cloud deployment, and API integrations.
+* 🔭 Currently building **Clutch Baileys** & advanced WhatsApp multi-device ecosystems.
+* ⚡ Passionate about transforming ideas into clean, fast, and reliable software solutions.
+* 🛠️ Specialized in Node.js, API development, backend architecture, and cloud deployment.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Skills
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,php,react,nodejs,express,mongodb,mysql,linux,git,github,docker,cloudflare,gcp&perline=9" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,html,css,php,cpp,mysql,mongodb,linux,git,github,docker,cloudflare,gcp&perline=9" alt="Tech Stack"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats & Metrics
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alifalfrl&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifalfrl&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alifalfrl&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" height="190" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifalfrl&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="190" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=alifalfrl&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=alifalfrl&theme=tokyonight&hide_border=true" width="72%" alt="GitHub Streak" />
 </p>
 
 ---
 
 <div align="center">
-  <p>⭐ Feel free to check out my repositories and projects!</p>
+  <p>⭐ Thanks for visiting my profile! Feel free to explore my repositories.</p>
 </div>
